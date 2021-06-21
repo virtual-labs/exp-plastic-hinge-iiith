@@ -9,5 +9,3 @@ Lateral earth pressure is the pressure that soil exerts in the horizontal plane.
 
 To determine the lateral pressure of the retaining wall.
 
-
-[Read more](http://bsa-iiith.vlabs.ac.in/exp10/Exp-10%20Plastic%20hinge.pdf)
