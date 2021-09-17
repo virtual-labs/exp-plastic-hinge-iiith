@@ -5,7 +5,3 @@ The rigid types are mainly those made of masonry, simple concrete or reinforced 
 Lateral earth pressure is the pressure that soil exerts in the horizontal plane. The common applications of lateral earth pressure theory are for the design of ground engineering structures such as retaining walls, basements, tunnels, and to determine the friction on the sides of deep foundations.
 
 
-#### Objective
-
-To determine the lateral pressure of the retaining wall.
-
