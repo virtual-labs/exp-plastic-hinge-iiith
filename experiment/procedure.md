@@ -1,1 +1,1 @@
-### Procedure
+<a href="docs/Exp-10 Plastic hinge.pdf">[Read more]</a>
